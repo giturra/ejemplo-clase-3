@@ -1,0 +1,2 @@
+variable = 10
+"esto es un ejemplo"
